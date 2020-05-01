@@ -2,7 +2,7 @@
 
 A selection of interaction data for *Rousettus aegyptiacus*.
 
-* Albayrak, I., A?an, N., & Yorulmaz, T. (2008). The natural history of the Egyptian fruit bat, Rousettus aegyptiacus, in Turkey (Mammalia: Chiroptera). Turkish Journal of Zoology, 32(1), 11-18.
+* Albayrak, I., Aşan, N., & Yorulmaz, T. (2008). The natural history of the Egyptian fruit bat, Rousettus aegyptiacus, in Turkey (Mammalia: Chiroptera). Turkish Journal of Zoology, 32(1), 11-18.
 * del Vaglio, M. A., Nicolau, H., Bosso, L., Russo, D. (2011). A first assessment of feeding habits in the fruit bat Rousettus aegyptiacus on Cyprus island. Hystrix, the Italian Journal of Mammalogy, 22(2). https://doi.org/10.4404/hystrix-22.2-4587
 * Korine, C., Izhaki, I., & Arad, Z. (1999). Is the Egyptian fruit-bat Rousettus aegyptiacus a pest in Israel? An analysis of the bat's diet and implications for its conservation. Biological conservation, 88(3), 301-306.
 * Radek K. Lučan, Tomáš Bartonička, Petr Jedlička, Šimon Řeřucha, Martin Šálek, Martin Čížek, Haris Nicolaou, Ivan Horáček (2016) Spatial activity and feeding ecology of the endangered northern population of the Egyptian fruit bat ( Rousettus aegyptiacus ). Journal of Mammalogy, 97(3), 815–822. https://doi.org/10.1093/jmammal/gyw014
