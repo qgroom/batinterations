@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/globalbioticinteractions/template-dataset.svg)](https://travis-ci.org/globalbioticinteractions/template-dataset) [![DOI](https://zenodo.org/badge/26293374.svg)](https://zenodo.org/badge/latestdoi/26293374) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/template-dataset)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/template-dataset) 
 
-A selection of interaction data for *Rousettus aegyptiacus* and *Rhinolophus sinicus*.
+A selection of interaction data for *Rousettus aegyptiacus*.
 
 * Albayrak, I., A?an, N., & Yorulmaz, T. (2008). The natural history of the Egyptian fruit bat, Rousettus aegyptiacus, in Turkey (Mammalia: Chiroptera). Turkish Journal of Zoology, 32(1), 11-18.
 * del Vaglio, M. A., Nicolau, H., Bosso, L., Russo, D. (2011). A first assessment of feeding habits in the fruit bat Rousettus aegyptiacus on Cyprus island. Hystrix, the Italian Journal of Mammalogy, 22(2). https://doi.org/10.4404/hystrix-22.2-4587
