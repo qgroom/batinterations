@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/globalbioticinteractions/template-dataset.svg)](https://travis-ci.org/globalbioticinteractions/template-dataset) [![DOI](https://zenodo.org/badge/26293374.svg)](https://zenodo.org/badge/latestdoi/26293374) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/template-dataset)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/template-dataset) 
+[![Build Status](https://travis-ci.org/globi:qgroom/batinterations.svg)](https://travis-ci.org/globi:qgroom/batinterations) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globi:qgroom/batinterations)](http://globalbioticinteractions.org/?accordingTo=globi:qgroom/batinterations) 
 
-A selection of interaction data for *Rousettus aegyptiacus*.
+A selection of interaction data for *Rousettus aegyptiacus* to be indexed by Global Biotic Interactions (GloBI, https://globalbioticinteractions.org)
 
 ## References
 
