@@ -2,4 +2,6 @@
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "citation": "Quentin J. Groom. 2020. Bat interation data manually extracted from literature.",
   "licence": "CC0"
+  "version": "1.0"
+  "format": "TSV"
 }
