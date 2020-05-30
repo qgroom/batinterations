@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/globi:qgroom/batinterations.svg)](https://travis-ci.org/globi:qgroom/batinterations) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globi:qgroom/batinterations)](http://globalbioticinteractions.org/?accordingTo=globi:qgroom/batinterations) 
+[![Build Status](https://travis-ci.org/qgroom/batinterations.svg)](https://travis-ci.org/qgroom/batinterations) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:qgroom/batinterations)](http://globalbioticinteractions.org/?accordingTo=globi:qgroom/batinterations) 
 
 A selection of interaction data for *Rousettus aegyptiacus* to be indexed by Global Biotic Interactions (GloBI, https://globalbioticinteractions.org)
 
